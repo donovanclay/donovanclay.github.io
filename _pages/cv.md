@@ -16,7 +16,7 @@ Education
 * B.A. in Comparative History of Ideas, University of Washington (College of Arts and Sciences), 2025
 
 
-Work experience
+Research experience
 ======
 * Jun. 2026 – present: Graduate Student Researcher
   * Allen Institute for AI (Ai2), AllenNLP Scaling Team
@@ -25,14 +25,6 @@ Work experience
   * Improved OLMo-eval infrastructure to support multimodal evaluation benchmarks
   * Increased training throughput 8x in wall-clock time and 4x in GPU efficiency
 
-* Jun. 2024 – Sep. 2024: Software Engineer Intern
-  * Amazon, AWS SageMaker (Seattle)
-  * Architected CI/CD infrastructure using the AWS Cloud Development Kit to automate testing and releases
-  * Automated release workflows via conda-forge, eliminating 2–3 weeks of manual work per release
-  * Automated AWS-based tests for every contribution to the open-source repository
-
-Research experience
-======
 * Sep. 2025 – present: Graduate Student Researcher
   * Ai2 PRIOR/Robotics & RAIVN Lab, University of Washington
   * Advisor: Prof. Ranjay Krishna
@@ -57,6 +49,14 @@ Research experience
   * Advisor: Prof. Scott Hauck
   * Authored an honors thesis benchmarking automated neural network hardware acceleration
   * Implemented a neural network in SystemVerilog to compare against HLS code
+
+Industry experience
+======
+* Jun. 2024 – Sep. 2024: Software Engineer Intern
+  * Amazon, AWS SageMaker (Seattle)
+  * Architected CI/CD infrastructure using the AWS Cloud Development Kit to automate testing and releases
+  * Automated release workflows via conda-forge, eliminating 2–3 weeks of manual work per release
+  * Automated AWS-based tests for every contribution to the open-source repository
 
 Skills
 ======

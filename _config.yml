@@ -23,7 +23,7 @@ repository               : "donovanclay/donovanclay.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Donovan Clay"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Researcher & M.S. Student"
