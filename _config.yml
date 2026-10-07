@@ -225,7 +225,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false # titles link straight to the paper instead of a page per publication
     permalink: /:collection/:path/
   portfolio:
     output: true

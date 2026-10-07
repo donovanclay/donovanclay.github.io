@@ -7,5 +7,6 @@ date: 2025-11-01
 venue: 'Neural Information Processing Systems (NeurIPS 2025)'
 paperurl: 'https://arxiv.org/abs/2511.00222'
 authors: 'Abdulhai, M., Cheng, R., <b>Clay, D.</b>, et al.'
+authors_full: 'Marwa Abdulhai, Ryan Cheng, <b>Donovan Clay</b>, Tim Althoff, Sergey Levine, Natasha Jaques'
 citation: '(2025). &quot;Consistently Simulating Human Personas with Multi-Turn Reinforcement Learning.&quot; <i>Neural Information Processing Systems (NeurIPS 2025)</i>.'
 ---
