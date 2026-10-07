@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Donovan Clay",
+    "email": "",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://donovanclay.github.io",
+    "summary": "Currently employed at University of Washington. Machine Learning Researcher & M.S. Student",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Seattle, WA",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,41 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=BvGg5qYAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "donovanclay",
+        "url": "https://github.com/donovanclay"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Washington (Paul G. Allen School of Computer Science & Engineering)",
+      "area": "M.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Washington (Paul G. Allen School of Computer Science & Engineering)",
+      "area": "B.S. in Computer Engineering with Distinction",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2022",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Washington (College of Arts and Sciences)",
+      "area": "B.A. in Comparative History of Ideas",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2022",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +61,64 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Benchmarking Batch Normalization in HLS4ML Designs",
+      "publisher": "Honors Undergraduate Thesis, University of Washington",
+      "releaseDate": "2025-06-01",
+      "website": "https://people.ece.uw.edu/hauck/publications/DonovanThesis.pdf",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Consistently Simulating Human Personas with Multi-Turn Reinforcement Learning",
+      "publisher": "Neural Information Processing Systems (NeurIPS 2025)",
+      "releaseDate": "2025-11-01",
+      "website": "https://arxiv.org/abs/2511.00222",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "MolmoSpaces: Large-Scale Open Ecosystem for Robot Navigation and Manipulation",
+      "publisher": "Robotics: Science and Systems (RSS 2026)",
+      "releaseDate": "2026-04-01",
+      "website": "https://allenai.org/papers/molmospaces",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
+      "publisher": "Robotics: Science and Systems (RSS 2026)",
+      "releaseDate": "2026-04-09",
+      "website": "https://arxiv.org/abs/2604.08626",
+      "summary": ""
+    },
+    {
+      "name": "MolmoAct2: Action Reasoning Models for Real-world Deployment",
+      "publisher": "Conference on Robot Learning (CoRL 2026)",
+      "releaseDate": "2026-05-04",
+      "website": "https://arxiv.org/abs/2605.02881",
+      "summary": ""
+    },
+    {
+      "name": "Demystifying Reinforcement Learning Post-Training of Language Models",
+      "publisher": "Under review at the International Conference on Learning Representations (ICLR 2027)",
+      "releaseDate": "2026-08-24",
+      "website": "https://arxiv.org/abs/2608.24949",
+      "summary": ""
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Digital Design (CSE 369)",
+      "institution": "University of Washington, Paul G. Allen School of Computer Science & Engineering",
+      "date": "2024-01-01",
+      "role": "Teaching Assistant",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Machine Learning (CSE 546/446)",
+      "institution": "University of Washington, Paul G. Allen School of Computer Science & Engineering",
+      "date": "2024-09-01",
+      "role": "Head Teaching Assistant",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
