@@ -1,0 +1,12 @@
+{%- comment -%}
+  Renders a publication citation: the `authors` list followed by `citation`.
+  If `authors_full` is set, the short list expands to it on hover, focus, or tap.
+{%- endcomment -%}
+{%- assign item = include.item -%}
+{%- if item.authors_full -%}
+<span class="pub-authors" tabindex="0" title="Show all authors"><span class="pub-authors__short">{{ item.authors }}</span><span class="pub-authors__full">{{ item.authors_full }}</span></span> {{ item.citation }}
+{%- elsif item.authors -%}
+{{ item.authors }} {{ item.citation }}
+{%- else -%}
+{{ item.citation }}
+{%- endif -%}

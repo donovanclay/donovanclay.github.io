@@ -37,3 +37,19 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* Publication author lists: show the short list, expand to all authors on hover/focus/tap */
+.pub-authors {
+  cursor: pointer;
+  text-decoration: underline dotted;
+  text-underline-offset: 0.2em;
+}
+.pub-authors__full { display: none; }
+.pub-authors:hover,
+.pub-authors:focus {
+  text-decoration: none;
+  outline: none;
+}
+.pub-authors:hover .pub-authors__short,
+.pub-authors:focus .pub-authors__short { display: none; }
+.pub-authors:hover .pub-authors__full,
+.pub-authors:focus .pub-authors__full { display: inline; }
